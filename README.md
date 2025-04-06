@@ -1,0 +1,1 @@
+modeling the Julia set
